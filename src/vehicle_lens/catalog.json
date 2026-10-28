@@ -1,0 +1,5 @@
+{
+  "airplane": ["Boeing 737", "Boeing 747", "Boeing 757", "Boeing 767", "Boeing 777", "Boeing 787", "Airbus A220", "Airbus A320", "Airbus A330", "Airbus A350", "Airbus A380", "Embraer E175", "Embraer E190", "Bombardier CRJ900", "Cessna 172", "Cessna Citation", "Gulfstream G650", "Beechcraft King Air", "Lockheed C-130 Hercules", "unknown airplane model"],
+  "car": ["Toyota Camry", "Toyota Corolla", "Honda Civic", "Honda Accord", "Tesla Model 3", "Tesla Model S", "Tesla Model Y", "Ford Mustang", "Chevrolet Corvette", "Chevrolet Camaro", "BMW 3 Series", "Mercedes-Benz C-Class", "Audi A4", "Porsche 911", "Volkswagen Golf", "Mazda MX-5", "Hyundai Elantra", "Kia K5", "Nissan Altima", "unknown car model"],
+  "boat": ["Boston Whaler 170 Montauk", "Boston Whaler 420 Outrage", "Sea Ray Sundancer", "Bayliner VR5", "Yamaha 242X", "Beneteau Oceanis", "Jeanneau Sun Odyssey", "Lagoon 42 catamaran", "Sunseeker Predator", "Azimut flybridge yacht", "Viking sportfishing yacht", "Grady-White center console", "sailboat", "motor yacht", "container ship", "bulk carrier", "oil tanker", "ferry", "fishing trawler", "tugboat", "unknown boat model"]
+}
